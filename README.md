@@ -1,7 +1,13 @@
 # **Disclaimer READ THIS BEOFRE CONTINUING**
-The developer is in no way responisble for your actions or what you use this program for its made strictly for educational purposes. Any misuse of is in no way any of my responisbilty. You can face up to 20 years jail time for email spamming. Use this for testing purposes only and don't use it for evil
+The developer is in no way responisble for your actions or what you use this program for its made strictly for educational purposes. Any misuse of is in no way any of my responisbilty. You can face up to 20 years jail time for email spamming. Use this for testing purposes only and don't use it for evil.
 
 
+# **Requirments**
+python3
+to install it use the command
+```
+sudo apt-get install python3
+```
 
 
 
