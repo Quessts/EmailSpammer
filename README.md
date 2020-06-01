@@ -14,7 +14,6 @@ git clone https://github.com/Quessts/EmailSpammer
 cd EmailSpammer  
 ```
 ```
-
 python3 Email_Spammer.py  
 ```
 
