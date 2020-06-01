@@ -10,8 +10,11 @@ The developer is in no way responisble for your actions or what you use this pro
 ```
 git clone https://github.com/Quessts/EmailSpammer  
 ```
+```
 cd EmailSpammer  
 ```
+```
+
 python3 Email_Spammer.py  
 ```
 
